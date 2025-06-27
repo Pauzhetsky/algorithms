@@ -1,4 +1,4 @@
-//! уровень 1: базовые алгоритмы (basic algorithms)
+//! Уровень 1: базовые алгоритмы (basic algorithms)
 //* 2. Подсчет частоты элементов (Frequency Counter)
 
 function frequencyCounter(arr) {

@@ -1,4 +1,4 @@
-//! уровень 1: базовые алгоритмы (basic algorithms)
+//! Уровень 1: базовые алгоритмы (basic algorithms)
 //* 3. Разворот строки (String Reversal)
 
 function reverseString(str) {
